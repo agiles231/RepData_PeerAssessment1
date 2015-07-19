@@ -228,8 +228,3 @@ mydat <- rbind(avgStepsByIntervalWeekend, avgStepsByIntervalWeekday)
 
 Now to plot the average number of steps taken factored by weekday/weekend day and by interval
 ![](PA1_template_files/figure-html/unnamed-chunk-13-1.png) 
-
-```
-## Warning in remove(avgStepsByIntervalWeekend, avgStepsByIntervalWeekday, :
-## object 'isWeekdays' not found
-```
