@@ -46,7 +46,7 @@ for (i in 1:nrow(mydat)) {
 }
 # histogram of the number of steps taken each day
 hist(stepsByDay, xlab = "Steps (n)"
-     , main = "Total steps taken per day (NA's replaced)")
+     , main = "Total steps taken per day")
 ```
 
 ![](PA1_template_files/figure-html/unnamed-chunk-2-1.png) 
