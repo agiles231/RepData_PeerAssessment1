@@ -232,7 +232,6 @@ remove(avgStepsByIntervalWeekend
        , dayStepsSum
        , i
        , intervals
-       , isWeekdays
        , j
        , numIntervals
        , stepsByDay
